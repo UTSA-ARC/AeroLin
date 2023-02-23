@@ -167,78 +167,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJMWYRVA
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Design Rule Check - SRAD_SAC.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=3DModels\Linda_SRAD_Avionics.step
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Pick Place for SRAD_SAC.txt
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Drill_Files\SRAD_SAC.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Drill_Files\SRAD_SAC.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Drill_Files\SRAD_SAC.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -821,6 +749,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
