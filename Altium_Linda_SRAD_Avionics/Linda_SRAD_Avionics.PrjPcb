@@ -185,91 +185,71 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=https://d.docs.live.net/0857040a5fc6d13c/Desktop/Altium_Projects/Linda-Avionics-Hardware/Altium_Linda_SRAD_Avionics/Project Outputs for Linda_SRAD_Avionics/Bill of Materials-Linda_SRAD_Avionics.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Design Rule Check - SRAD_SAC.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Pick Place for SRAD_SAC.txt
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Drill_Files\SRAD_SAC.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Drill_Files\SRAD_SAC.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.REP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=3DModels\SRAD_SAC.step
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\ExportSTEP\SRAD_SAC.step
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Linda_SRAD_Avionics\Drill_Files\SRAD_SAC.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Linda_SRAD_Avionics\Gerber_Files\SRAD_SAC.TXT
 DItemRevisionGUID=
 
 [Configuration1]
