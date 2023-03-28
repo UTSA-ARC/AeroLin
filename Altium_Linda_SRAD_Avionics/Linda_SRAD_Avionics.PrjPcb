@@ -257,12 +257,12 @@ DocumentPath=Project Outputs for Linda_SRAD_Avionics\NC Drill\SRAD_SAC.TXT
 DItemRevisionGUID=
 
 [Parameter1]
-Name=CompanyName
-Value=Aeronautics and Rocket Club
-
-[Parameter2]
 Name=Author
 Value=Juan Rafael Muñoz, Jr.
+
+[Parameter2]
+Name=CompanyName
+Value=Aeronautics and Rocket Club
 
 [Configuration1]
 Name=Sources
