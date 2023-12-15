@@ -1,0 +1,8 @@
+SRAD Flight Computer To-Do List
+
+
+1. Review schematic and PCB for good wiring
+2. Add buzzer
+3. Add coninuity checks (ensure proper resistor value)
+4. FPV camera * (ONLY IF WE FINISH?!!!!!!)
+5. GPS
