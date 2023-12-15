@@ -1,2 +1,2 @@
-# Linda-Avionics-Schematics
-Schematic for Spaceport 2023 "Linda" vehicle
+# AeroLin
+An Arduino-based Flight Computer
